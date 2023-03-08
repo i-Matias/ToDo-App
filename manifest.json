@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.1", 
+    "name": "todos-app",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "todoapp-logo.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
